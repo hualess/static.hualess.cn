@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "message": "获取成功！",
+  "data": {
+    "title": "耕云导航 | 高效实用的极简导航",
+    "id": 1,
+    "description": "耕云导航- 收集国内外办公工具网站、素材资源网站、UI设计资源网站、灵感创意网站、AI导航网站，定时更新分享优质产品设计书签。",
+    "keywords": "耕云导航,综合性导航网站,设计导航,资源导航,UI设计,UI设计素材,设计导航,网址导航,设计资源,创意导航,创意网站导航,设计师网址大全,设计素材大全,设计师导航,UI设计资源",
+    "status": 1,
+    "logo": "http:\/\/nav.untview.top\/public\/upload\/image\/2024-01-05\/c506a8fd1c39e14019fc30abd691eaa2.png",
+    "name": "耕云导航",
+    "motto": "你坚持下来了，而别人坚持不下来，这就是你的资本。",
+    "footer": "Copyright © 2024 耕云导航 由 <a href=\"http:\/\/nav.untview.top\/\" class=\"a-none\">耕云计划 <\/a>强力驱动",
+    "views": 255,
+    "create_time": "2024-01-13 09:12:31",
+    "create_by": "test"
+  }
+}
